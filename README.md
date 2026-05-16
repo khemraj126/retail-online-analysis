@@ -1,2 +1,2 @@
 # SALES FORECASTING ANALYSIS
-analyzing the retail sales based on months weeks ets
+The Online Retail Sales Forecasting project focuses on analyzing transactional retail data and developing machine learning models capable of predicting future revenue trends. The project combines data preprocessing, exploratory data analysis (EDA), feature engineering, predictive modeling, and forecasting techniques to gain insights into customer purchasing behavior and business performance.
